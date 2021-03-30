@@ -12,3 +12,7 @@ The functional enrichment was quantitatively assessed (p-value) using a hypergeo
 Origin of all data: GEO, retrieved at 03-12-2019
 String: August 2019
 Cytoscape: August 2019
+
+## Related works
+
+Silva, G. C. V., & Matte, U. (2021). Neuro-networks investigating the neurological impairment of mucopolysaccharidoses using a system biology approach. Molecular Genetics and Metabolism, 132(2), S109. doi:10.1016/j.ymgme.2020.12.268
